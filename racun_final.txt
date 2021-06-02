@@ -1,0 +1,4 @@
+python programming|798.36|2|1596.72
+5|['sistemi automatskog upravljanja', 'optimizacioni algoritmi', 'obrada signala']|2260.993|3|6782.98
+8379.7|620.3
+2021-02-11 13:50:39.184969

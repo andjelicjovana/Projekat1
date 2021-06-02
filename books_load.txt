@@ -1,0 +1,136 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "prepoznavanje oblika",
+            "isbn": "111",
+            "author": "vladimir crnojevic",
+            "publisher": "ftn",
+            "number of pages": 500,
+            "pub year": 2014,
+            "price": 1000.0,
+            "category": "udzbenik",
+            "status": "1"
+        },
+        {
+            "id": "2",
+            "title": "mehanika",
+            "isbn": "666",
+            "author": "spasic",
+            "publisher": "ftn",
+            "number of pages": "240",
+            "pub year": "2019",
+            "price": "350.00",
+            "category": "udzbenik",
+            "status": "1"
+        },
+        {
+            "id": "3",
+            "title": "osnovi elektrotehnike",
+            "isbn": "666",
+            "author": "herceg",
+            "publisher": "ftn",
+            "number of pages": "100",
+            "pub year": "2020",
+            "price": "250.00",
+            "category": "udzbenik",
+            "status": "1"
+        },
+        {
+            "id": "4",
+            "title": "optimizacioni algoritmi",
+            "isbn": "658",
+            "author": "jelicic",
+            "publisher": "ftn",
+            "number of pages": 159,
+            "pub year": 2017,
+            "price": 899.99,
+            "category": "udzbenik",
+            "status": "0"
+        },
+        {
+            "id": "5",
+            "title": "modelovanje i simulacija",
+            "isbn": "594",
+            "author": "dubravka",
+            "publisher": "ftn",
+            "number of pages": 94,
+            "pub year": 2016,
+            "price": 699.99,
+            "category": "udzbenik",
+            "status": "0"
+        },
+        {
+            "id": "6",
+            "title": "obrada signala",
+            "isbn": "471",
+            "author": "turukalo",
+            "publisher": "ftn",
+            "number of pages": 130,
+            "pub year": 2015,
+            "price": 530.98,
+            "category": "udzbenik",
+            "status": "1"
+        },
+        {
+            "id": "7",
+            "title": "python programming",
+            "isbn": "222",
+            "author": "segedinac",
+            "publisher": "ftn",
+            "number of pages": 265,
+            "pub year": 2013,
+            "price": 798.36,
+            "category": "udzbenik",
+            "status": "1"
+        },
+        {
+            "id": "8",
+            "title": "usi",
+            "isbn": "635",
+            "author": "perisic",
+            "publisher": "ftn",
+            "number of pages": 146,
+            "pub year": 2012,
+            "price": 645.56,
+            "category": "udzbenik",
+            "status": "1"
+        },
+        {
+            "id": "9",
+            "title": "matematika1",
+            "isbn": "123",
+            "author": "buhmiler",
+            "publisher": "ftn",
+            "number of pages": 100,
+            "pub year": 2020,
+            "price": 500.0,
+            "category": "udzbenik",
+            "status": "1"
+        },
+        {
+            "id": "10",
+            "title": "matematika2",
+            "isbn": "555",
+            "author": "buhmiler",
+            "publisher": "ftn",
+            "number of pages": "180",
+            "pub year": "2020",
+            "price": "300.00",
+            "category": "udzbenik",
+            "status": "1"
+        },
+        {
+            "id": "11",
+            "title": "Fizika",
+            "isbn": "999",
+            "author": "samardzic",
+            "publisher": "ftn",
+            "number of pages": 280,
+            "pub year": 2019,
+            "price": 350.0,
+            "category": "udzbenik",
+            "status": "1"
+        }
+    ]
+}

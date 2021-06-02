@@ -1,0 +1,254 @@
+{
+    "akcije": [
+        {
+            "ida": 1,
+            "knjige": [
+                {
+                    "id": "2",
+                    "title": "sistemi automatskog upravljanja",
+                    "isbn": "666",
+                    "author": "darko stanisic",
+                    "publisher": "ftn",
+                    "number of pages": 300,
+                    "pub year": 2015,
+                    "price": 799.99,
+                    "category": "udzbenik",
+                    "status": "1"
+                },
+                {
+                    "id": "3",
+                    "title": "projektovanje linearnih regulatora",
+                    "isbn": "448",
+                    "author": "rapaja",
+                    "publisher": "ftn",
+                    "number of pages": 400,
+                    "pub year": 2014,
+                    "price": 1599.99,
+                    "category": "udzbenik",
+                    "status": "1"
+                }
+            ],
+            "valid_until": [
+                2021,
+                2,
+                20
+            ]
+        },
+        {
+            "ida": 2,
+            "knjige": [
+                {
+                    "id": "7",
+                    "title": "python programming",
+                    "isbn": "222",
+                    "author": "segedinac",
+                    "publisher": "ftn",
+                    "number of pages": 265,
+                    "pub year": 2013,
+                    "price": 798.36,
+                    "category": "udzbenik",
+                    "status": "1"
+                },
+                {
+                    "id": "8",
+                    "title": "usi",
+                    "isbn": "635",
+                    "author": "perisic",
+                    "publisher": "ftn",
+                    "number of pages": 146,
+                    "pub year": 2012,
+                    "price": 645.56,
+                    "category": "udzbenik",
+                    "status": "1"
+                }
+            ],
+            "valid_until": [
+                2021,
+                2,
+                15
+            ]
+        },
+        {
+            "ida": 3,
+            "knjige": [
+                {
+                    "id": "5",
+                    "title": "modelovanje i simulacija",
+                    "isbn": "594",
+                    "author": "dubravka",
+                    "publisher": "ftn",
+                    "number of pages": 94,
+                    "pub year": 2016,
+                    "price": 599.99,
+                    "category": "udzbenik",
+                    "status": "1"
+                },
+                {
+                    "id": "6",
+                    "title": "obrada signala",
+                    "isbn": "471",
+                    "author": "turukalo",
+                    "publisher": "ftn",
+                    "number of pages": 130,
+                    "pub year": 2015,
+                    "price": 530.98,
+                    "category": "udzbenik",
+                    "status": "1"
+                }
+            ],
+            "valid_until": [
+                2021,
+                2,
+                6
+            ]
+        },
+        {
+            "ida": 4,
+            "knjige": [
+                {
+                    "id": "4",
+                    "title": "optimizacioni algoritmi",
+                    "isbn": "658",
+                    "author": "jelicic",
+                    "publisher": "ftn",
+                    "number of pages": 159,
+                    "pub year": 2017,
+                    "price": 850.33,
+                    "category": "udzbenik",
+                    "status": "1"
+                },
+                {
+                    "id": "5",
+                    "title": "modelovanje i simulacija",
+                    "isbn": "594",
+                    "author": "dubravka",
+                    "publisher": "ftn",
+                    "number of pages": 94,
+                    "pub year": 2016,
+                    "price": 650.33,
+                    "category": "udzbenik",
+                    "status": "1"
+                }
+            ],
+            "valid_until": [
+                2021,
+                6,
+                3
+            ]
+        },
+        {
+            "ida": 5,
+            "knjige": [
+                {
+                    "id": "2",
+                    "title": "sistemi automatskog upravljanja",
+                    "isbn": "666",
+                    "author": "darko stanisic",
+                    "publisher": "ftn",
+                    "number of pages": 300,
+                    "pub year": 2015,
+                    "price": 900.333,
+                    "category": "udzbenik",
+                    "status": "1"
+                },
+                {
+                    "id": "4",
+                    "title": "optimizacioni algoritmi",
+                    "isbn": "658",
+                    "author": "jelicic",
+                    "publisher": "ftn",
+                    "number of pages": 159,
+                    "pub year": 2017,
+                    "price": 850.33,
+                    "category": "udzbenik",
+                    "status": "1"
+                },
+                {
+                    "id": "6",
+                    "title": "obrada signala",
+                    "isbn": "471",
+                    "author": "turukalo",
+                    "publisher": "ftn",
+                    "number of pages": 130,
+                    "pub year": 2015,
+                    "price": 510.33,
+                    "category": "udzbenik",
+                    "status": "1"
+                }
+            ],
+            "valid_until": [
+                2021,
+                2,
+                25
+            ]
+        },
+        {
+            "ida": 6,
+            "knjige": [
+                {
+                    "id": "10",
+                    "title": "primena radio talasa",
+                    "isbn": "3245",
+                    "author": "dalibor",
+                    "publisher": "ftn",
+                    "number of pages": 126,
+                    "pub year": 2017,
+                    "price": "750.00",
+                    "category": "udzbenik",
+                    "status": "1"
+                },
+                {
+                    "id": "7",
+                    "title": "python programming",
+                    "isbn": "222",
+                    "author": "segedinac",
+                    "publisher": "ftn",
+                    "number of pages": 265,
+                    "pub year": 2013,
+                    "price": "699.99",
+                    "category": "udzbenik",
+                    "status": "1"
+                }
+            ],
+            "valid_until": [
+                2021,
+                2,
+                20
+            ]
+        },
+        {
+            "ida": 7,
+            "knjige": [
+                {
+                    "id": "6",
+                    "title": "obrada signala",
+                    "isbn": "471",
+                    "author": "turukalo",
+                    "publisher": "ftn",
+                    "number of pages": 130,
+                    "pub year": 2015,
+                    "price": "450.00",
+                    "category": "udzbenik",
+                    "status": "1"
+                },
+                {
+                    "id": "9",
+                    "title": "matematika1",
+                    "isbn": "123",
+                    "author": "buhmiler",
+                    "publisher": "ftn",
+                    "number of pages": 100,
+                    "pub year": 2020,
+                    "price": "420.50",
+                    "category": "udzbenik",
+                    "status": "1"
+                }
+            ],
+            "valid_until": [
+                2021,
+                2,
+                25
+            ]
+        }
+    ]
+}

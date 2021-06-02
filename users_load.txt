@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "username": "jovanaandj",
+            "password": "jovjov",
+            "name": "jovana",
+            "lastname": "andjelic",
+            "user_type": "administrator"
+        },
+        {
+            "username": "mika1",
+            "password": "mikmik",
+            "name": "mika",
+            "lastname": "mikic",
+            "user_type": "menadzer"
+        },
+        {
+            "username": "pera3",
+            "password": "perper",
+            "name": "pera",
+            "lastname": "peric",
+            "user_type": "prodavac"
+        },
+        {
+            "username": "ivan2",
+            "password": "iviv",
+            "name": "ivan",
+            "lastname": "ivanovic",
+            "user_type": "menadzer"
+        },
+        {
+            "username": "djura5",
+            "password": "djuradjura",
+            "name": "djura",
+            "lastname": "djuric",
+            "user_type": "menadzer"
+        },
+        {
+            "username": "ceca",
+            "password": "cecaa",
+            "name": "svetlana",
+            "lastname": "matic",
+            "user_type": "prodavac"
+        },
+        {
+            "username": "lunamaj",
+            "password": "lunaluna",
+            "name": "maja",
+            "lastname": "markovic",
+            "user_type": "prodavac"
+        },
+        {
+            "username": "draganac",
+            "password": "draga2",
+            "name": "dragana",
+            "lastname": "crnic",
+            "user_type": "menadzer"
+        }
+    ]
+}
